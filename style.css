@@ -61,7 +61,7 @@ body {
     right: 5px;
     top: 50%;
     transform: translateY(-50%);
-    height: calc(8vh - 10px);
+    height: 60px;
     border-radius: 50px;
     width: 120px;
     font-size: 289%;
@@ -74,9 +74,8 @@ body {
 }
 
 .add:hover {
-    cursor: pointer;
-    background: #299e4e;
-    transform: scale(1.05);
+   cursor: pointer;
+   background-color: #218a42;
 }
 
 ul {
